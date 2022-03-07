@@ -12,9 +12,9 @@
 
 3. Renamed the title element to better represent the company. (line 7)
 
-.4 Changed <div> 
+4. Changed div elements in areas that seemed fit to make the file look more semantic.  
 
 ### CSS
 
-1. Edited the styling element correlating to the span element in the header section. (line 23)
+1. Edited the styling selector correlating to the span element in the header section. (line 23)
 
