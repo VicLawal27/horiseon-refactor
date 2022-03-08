@@ -53,7 +53,7 @@ p {
     margin-left: 25px;
 }
 /*End of Header Section*/
-
+/*Start of Hero Section*/
 .hero {
     height: 800px;
     width: 100%;
@@ -62,6 +62,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+
 
 .float-left {
     float: left;
