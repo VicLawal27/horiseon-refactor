@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
 
+
+
 #### Refactored by Victor Lawal
 
 ## Edited Code
@@ -18,3 +20,4 @@
 
 1. Edited the styling selector correlating to the span element in the header section. (line 23)
 
+2. Optimized the styling selectors to make the code look more efficient.
