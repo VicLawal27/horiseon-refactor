@@ -74,13 +74,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.contents {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.search-engine-optimization {
+.content {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -107,7 +107,7 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.content img {
     max-height: 200px;
 }
 
@@ -133,7 +133,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*End of Content Section*/
+/*Start of Benefits Section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -161,8 +162,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
-
+/*End of Benefits Section*/
+/*Start of Footer Section*/
 .footer {
     padding: 30px;
     clear: both;
@@ -173,3 +174,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*End of Footer Section*/
